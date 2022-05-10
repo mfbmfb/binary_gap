@@ -1,1 +1,1 @@
-# binary_gap
+# codility tasks
